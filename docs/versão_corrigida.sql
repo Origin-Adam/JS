@@ -79,7 +79,7 @@ INSERT INTO precos (id_produto, preco_normal, preco_black_friday, data_inicio_pr
     (8, 'Armazenamento', '512GB'),
     (8, 'Conectividade', '5G'),
     (9, 'RAM', '8GB'),
-    (9, 'Armazenamento', '2512GB'),
+    (9, 'Armazenamento', '512GB'),
     (9, 'Conectividade', '5G');
     
     SELECT
